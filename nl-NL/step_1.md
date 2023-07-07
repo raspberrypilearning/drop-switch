@@ -7,9 +7,9 @@ Om een springplank-schakelaar voor je Raspberry Pi Pico te maken, heb je nodig:
 
 **Instructies**
 
-**Stap 1**: Maak twee geleidende strips met keukenfolie of geleidende tape. **Stap 2**: Plak de uiteinden van de jumperdraad aan elke strip.
+**Stap 1**: Maak twee geleidende strips met keukenfolie of geleidende tape. **Stap 2**: Plak de pen-uiteinden van de verbindingsdraad aan elke strip.
 
-![Aan de pinuiteinden van de twee hulpdraden wordt een strook keukenfolie met plakband vastgemaakt.](images/connect-pins.jpeg){:width="400px"}
+![Aan de penuiteinden van de twee hulpdraden wordt een strook keukenfolie met plakband vastgemaakt.](images/connect-pins.jpeg){:width="400px"}
 
 **Stap 3**: Plak wat aluminiumfolie of geleidende tape op de bodem van een voorwerp. De basis moet groot genoeg zijn om een verbinding tussen de twee draden te maken.
 
