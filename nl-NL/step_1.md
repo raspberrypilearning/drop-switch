@@ -1,20 +1,20 @@
-To craft a drop switch for your Raspberry Pi Pico, you will need:
+Om een springplank-schakelaar voor je Raspberry Pi Pico te maken, heb je nodig:
 
-+ A Raspberry Pi Pico
-+ 2 x socket-pin jumper wires
-+ Sticky tape
-+ Kitchen foil or conductive tape
++ Een Raspberry Pi Pico
++ 2× bus–pen verbindingsdraden
++ Plakband
++ Keukenfolie of geleidende tape
 
-**Instructions**
+**Instructies**
 
-**Step 1**: Create two conductive strips either with kitchen foil or conductive tape. **Step 2**: Stick the pin ends of the jumper wire to each strip.
+**Stap 1**: Maak twee geleidende strips met keukenfolie of geleidende tape. **Stap 2**: Plak de uiteinden van de jumperdraad aan elke strip.
 
-![To strips of kitchen foil are attached to the pin ends of two jumper wires with sticky tape.](images/connect-pins.jpeg){:width="400px"}
+![Aan de pinuiteinden van de twee hulpdraden wordt een strook keukenfolie met plakband vastgemaakt.](images/connect-pins.jpeg){:width="400px"}
 
-**Step 3**: Stick some kitchen foil or conductive tape to the bottom of an object. The base must be large enough to create a connection between the two wires.
+**Stap 3**: Plak wat aluminiumfolie of geleidende tape op de bodem van een voorwerp. De basis moet groot genoeg zijn om een verbinding tussen de twee draden te maken.
 
-![An object has kitchen foil stuck to its base.](images/foil-to-base.jpeg){:width="400px"}
+![Een voorwerp heeft keukenfolie op de bodem geplakt.](images/foil-to-base.jpeg){:width="400px"}
 
-**Step 4**: Attach the socket ends of the jumper wires to your Raspberry Pi Pico and drop your switch!
+**Stap 4**: Bevestig de busuiteinden van de verbindingsdraden aan je Raspberry Pi Pico en laat je voorwerp vallen!
 
-![An object drops onto two pieces of kitchen foil and lights an LED.](images/drop-switch.gif)
+![Een voorwerp valt op twee stukken aluminiumfolie en een LED licht gaat aan.](images/drop-switch.gif)
