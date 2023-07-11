@@ -1,20 +1,20 @@
-To craft a drop switch for your Raspberry Pi Pico, you will need:
+Pour fabriquer un interrupteur pour ton Raspberry Pi Pico, tu auras besoin de :
 
-+ A Raspberry Pi Pico
-+ 2 x socket-pin jumper wires
-+ Sticky tape
-+ Kitchen foil or conductive tape
++ Un Raspberry Pi Pico
++ 2 x fils de liaison prise-broche
++ Bande adhésive
++ Papier d'aluminium ou ruban conducteur
 
 **Instructions**
 
-**Step 1**: Create two conductive strips either with kitchen foil or conductive tape. **Step 2**: Stick the pin ends of the jumper wire to each strip.
+**Étape 1** : Crée deux bandes conductrices avec du papier d'aluminium ou du ruban conducteur. **Étape 2** : Colle les extrémités des fils de connexion sur chaque bande.
 
-![To strips of kitchen foil are attached to the pin ends of two jumper wires with sticky tape.](images/connect-pins.jpeg){:width="400px"}
+![Des bandes de papier d'aluminium sont attachées aux extrémités des broches de deux fils de raccordement avec du ruban adhésif.](images/connect-pins.jpeg){:width="400px"}
 
-**Step 3**: Stick some kitchen foil or conductive tape to the bottom of an object. The base must be large enough to create a connection between the two wires.
+**Étape 3** : Colle du papier d'aluminium ou du ruban adhésif conducteur au bas d'un objet. La base doit être suffisamment grande pour créer une connexion entre les deux fils.
 
-![An object has kitchen foil stuck to its base.](images/foil-to-base.jpeg){:width="400px"}
+![Un objet a du papier d'aluminium collé à sa base.](images/foil-to-base.jpeg){:width="400px"}
 
-**Step 4**: Attach the socket ends of the jumper wires to your Raspberry Pi Pico and drop your switch!
+**Étape 4** : Attache les extrémités des fils de connexion à ton Raspberry Pi Pico et dépose ton interrupteur !
 
-![An object drops onto two pieces of kitchen foil and lights an LED.](images/drop-switch.gif)
+![Un objet tombe sur deux morceaux de papier d'aluminium et allume une LED.](images/drop-switch.gif)
